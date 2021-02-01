@@ -7,4 +7,4 @@ composite and MVVM architecture.
  
 Presentation Video: https://youtu.be/HHmSaIBHxGI
 
-Teamate GitHub:
+Teamate GitHub: https://github.com/omer5144
